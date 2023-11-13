@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://github.com/volmarJr/preloaderJSLottie/blob/main/JVGIsylS3F-3.json',
+        path: 'https://volmarjr.github.io/preloaderJSLottie/JVGIsylS3F-3.json',
     });
 }
 

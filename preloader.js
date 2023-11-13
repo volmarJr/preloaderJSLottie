@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://volmarjr.github.io/preloaderJSLottie/Animation%20-%201699894098141.json',
+        path: 'https://volmarjr.github.io/preloaderJSLottie/anima.json',
     });
 }
 
